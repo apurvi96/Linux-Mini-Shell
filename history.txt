@@ -1,0 +1,5 @@
+ls -a -l
+cd
+exit
+ls
+cd

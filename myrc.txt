@@ -1,0 +1,8 @@
+HOME /home/apurvi 
+USER apurvi 
+HOSTNAME apurvi-Lenovo-U41-70 
+PATH /bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/local/sbin:/usr/X11R6/bin:/usr/bin/X11:/usr/games:/opt/bin:/opt/sbin: 
+VIDEO /usr/bin/vlc 
+SONG /usr/bin/vlc 
+PDF /usr/bin/evince 
+text /bin/nano 
